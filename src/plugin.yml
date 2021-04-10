@@ -1,0 +1,8 @@
+name: FlashStep
+version: 1.0
+main: rotang.FlashStep.FlashStep
+author: RoTang-hub
+
+commands:
+  fs:
+    usage: /<command> on | off
